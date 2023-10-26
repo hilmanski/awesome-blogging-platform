@@ -1,4 +1,4 @@
-# Awesome blogging platforms list
+# Awesome minimal blogging platforms list
 List of cool platforms for blogging!
 
 
