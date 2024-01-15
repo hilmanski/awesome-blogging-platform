@@ -8,4 +8,8 @@ Premium: 5$/month
 
 - [Mataroa](https://mataroa.blog/): Naked blogging platform, for minimalists. Just write.  
 Free (No custom domain, No auto-exports via email)  
-Premium: $9/year
+Premium: $9/year, **not per month!**
+
+- [Substack](https://substack.com): The subscription network for independent writers and creators
+
+- [Write.as](https://write.as): Start at 6$/month
